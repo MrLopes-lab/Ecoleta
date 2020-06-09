@@ -46,3 +46,7 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 
 ## 
 [Participe da comunidade Rocketseat!](https://discordapp.com/invite/gCRAFhc)
+
+<p align="center">
+  <img alt="Ecoleta" src="https://gph.is/1OGrnKi" width="100%">
+</p>
