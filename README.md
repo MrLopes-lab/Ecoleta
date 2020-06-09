@@ -46,3 +46,7 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 
 ## 
 [Participe da comunidade Rocketseat!](https://discordapp.com/invite/gCRAFhc)
+
+<p align="center">
+  <img alt="rocket" src=".github/giphy.webp" width="100%">
+</p>
